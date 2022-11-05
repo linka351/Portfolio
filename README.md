@@ -5,6 +5,7 @@
 
 ## General info
 This project is my responsive portfolio site.
+https://linka351.github.io/Portfolio/
 	
 ## Technologies
 Project is created with:
