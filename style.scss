@@ -9,7 +9,7 @@ body {
 .container {
 	background-color: hsl(200, 8%, 78%);
 	margin: auto;
-	width: 99vw;
+	width: 100vw;
 	display: flex;	
 	border-radius: 5px;
 	
@@ -38,7 +38,8 @@ body {
 			color: black;
 			font-size: 17px;
 			text-align: center;
-			padding-top: 20px;
+			padding: 20px 50px 20px 50px;
+
 		}
 	}
 	.footer {
